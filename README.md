@@ -1,4 +1,4 @@
-# LLM Reasoning Benchmark
+# LLM Reasoning Benchmark: Nine LLMs, One Question, Nine Answers
 
 **Testing Logical Consistency Across Major AI Models**
 
